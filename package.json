@@ -16,7 +16,6 @@
     "@highlightjs/vue-plugin": "^2.0.1",
     "@iconify/iconify": "^2.0.4",
     "@vueuse/core": "^6.0.0",
-    "agora-rtm-sdk": "^2.1.9",
     "highlight.js": "^11.2.0",
     "uuid": "^10.0.0",
     "vue": "^3.0.5",
